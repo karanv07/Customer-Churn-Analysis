@@ -3,6 +3,37 @@
 ## Project Overview
 This project analyzes telecom customer churn using Python. The goal is to identify factors influencing customer attrition and generate insights that help businesses improve customer retention.
 
+## Project Structure
+
+customer-churn-analysis
+│
+├── Customer_Churn_Analysis.ipynb
+├── customer_churn_one_page_summary.pdf
+└── README.md
+
+
+## Dataset
+
+The dataset contains telecom customer information including:
+- Demographics (gender, senior citizen)
+- Service usage (internet service, online security, tech support)
+- Contract type
+- Payment method
+- Customer tenure
+- Churn status
+
+
+
+## Key Visualizations
+
+The analysis includes visualizations for:
+- Churn distribution
+- Churn by contract type
+- Churn by internet service
+- Churn by senior citizen status
+- Churn by payment method
+  
+
 ## Tools & Technologies
 - Python
 - Pandas
