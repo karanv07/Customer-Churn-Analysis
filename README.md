@@ -27,4 +27,4 @@ This project analyzes telecom customer churn using Python. The goal is to identi
 - Customer_Churn_Analysis.ipynb – Full analysis notebook
 - customer_churn_one_page_summary.pdf – Project summary report
 
-[View Project Report](./customer_churn_one_page_summary.pdf)
+[View Project Report](./customer_churn_one_page_summary%20.pdf)
